@@ -48,7 +48,7 @@ function MyApp({ Component, pageProps }) {
             />
           }
           headerItems={[
-            <GithubLink url='https://github.com/ChromaMinecraft' />,
+            <GithubLink url='https://github.com/CivilizationGame' />,
             <ColorModeSwitch key='1' />,
           ]}
           sidebarOrdering={{
