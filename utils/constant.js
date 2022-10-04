@@ -1,7 +1,7 @@
 export const LIST_URL = {
-  STATUS: 'https://api.mcsrvstat.us/2/mc.chroma-gaming.xyz',
-  DISCORD: 'https://discord.chroma-gaming.xyz',
-  VOTE: 'https://minecraft-mp.com/server/268676/vote/',
+  STATUS: 'https://api.mcsrvstat.us/2/mc.civgame.net',
+  DISCORD: 'https://jq.qq.com/?k=1jpOkEM0',
+  VOTE: 'https://space.bilibili.com/1803912517/',
   WIKI: '/wiki',
 };
 

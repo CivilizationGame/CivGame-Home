@@ -61,7 +61,7 @@ const Footer = () => {
                   types={typesList.link}
                   onClick={(e) => {
                     e.preventDefault();
-                    copy('mc.chroma-gaming.xyz');
+                    copy('719375858');
                     toast({
                       duration: 1500,
                       position: 'top-right',
@@ -113,7 +113,7 @@ const Footer = () => {
                 <CivGameButton
                   types={typesList.secondary}
                   as='a'
-                  href='https://discord.chroma-gaming.xyz'
+                  href='https://jq.qq.com/?k=1jpOkEM0'
                   target='_blank'
                 >
                   加入聊天群

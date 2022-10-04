@@ -34,7 +34,7 @@ export default class MyDocument extends Document {
           />
           <meta property='og:image' content='/img/logo.png' />
           <meta property='og:locale' content='zh_CN' key='meta-locale' />
-          <meta property='og:url' content='https://mc.chroma-gaming.xyz/' />
+          <meta property='og:url' content='https://www.civgame.net' />
           <meta
             property='og:locale:alternate'
             content='zh_CN'
